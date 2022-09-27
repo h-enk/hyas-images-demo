@@ -1,7 +1,7 @@
 {
-  "name": "Hyas",
-  "description": "Hugo-powered Jamstack framework for building production-ready websites",
-  "version": "1.6.0",
+  "name": "hyas-images-demo",
+  "description": "Image render hook, shortcode + partial for Hyas sites — one page demo",
+  "version": "0.1.0",
   "engines": {
     "node": ">=16.17.0",
     "npm": ">=8.15.0"
